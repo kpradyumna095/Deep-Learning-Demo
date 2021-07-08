@@ -1,3 +1,5 @@
 welcome to Deeplearning
 
  We will start with ANN
+
+then NLP
